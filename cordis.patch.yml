@@ -1,0 +1,4 @@
+# @deepwhale-cn/dsh-doc-outline 的组合层
+- insert:
+    - id: doc-outline
+      name: '@deepwhale-cn/dsh-doc-outline'
